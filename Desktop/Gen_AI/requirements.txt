@@ -1,0 +1,4 @@
+#require lib for execution (before set up venu)
+streamlit
+google-generativeai
+python-dotenv
