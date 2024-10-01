@@ -1,0 +1,1001 @@
+input_prompt,response,category,context
+How do I stop nervous?,[Response Placeholder],Sleep Problems,Emotional Exhaustion
+What should I do when hopeless?,[Response Placeholder],Stress,Body Image Issues
+How can I get over angry?,[Response Placeholder],Social Anxiety,Decision-Making
+I can't stop feeling upset. What should I do?,[Response Placeholder],Fear,Trouble Concentrating
+What can I do when I'm feeling upset?,[Response Placeholder],Self-Esteem,Perfectionism
+Why do I feel unloved?,[Response Placeholder],Sadness,Body Image Issues
+I can't stop feeling worthless. What should I do?,[Response Placeholder],Grief,Insomnia
+Can you help me with overwhelmed?,[Response Placeholder],Sadness,Overthinking
+I'm struggling with overwhelmed. Can you help?,[Response Placeholder],Self-Esteem,Social Isolation
+Why does guilty feel so overwhelming?,[Response Placeholder],Anxiety,Regret
+I can't stop feeling angry. What should I do?,[Response Placeholder],Depression,Perfectionism
+What can I do when I'm feeling insecure?,[Response Placeholder],Burnout,Insomnia
+How can I get over guilty?,[Response Placeholder],Burnout,Work Stress
+How can I cope with stressed?,[Response Placeholder],Depression,Regret
+I can't stop feeling guilty. What should I do?,[Response Placeholder],Relationship Issues,Overthinking
+What can I do when I'm feeling insecure?,[Response Placeholder],Stress,Body Image Issues
+What should I do when lonely?,[Response Placeholder],Self-Esteem,Procrastination
+Why do I always feel nervous?,[Response Placeholder],Anxiety,Fear of Rejection
+How can I cope with sad?,[Response Placeholder],Panic Attacks,Social Isolation
+Can you help me with anxious?,[Response Placeholder],Stress,Insomnia
+I'm struggling with upset. Can you help?,[Response Placeholder],Guilt,Fear of Rejection
+How can I cope with worthless?,[Response Placeholder],Loneliness,Overthinking
+How can I get over stressed?,[Response Placeholder],Social Anxiety,Overthinking
+I can't stop feeling sad. What should I do?,[Response Placeholder],Anxiety,Perfectionism
+What can I do when worried affects me?,[Response Placeholder],Guilt,Fear of Rejection
+How do I stop guilty?,[Response Placeholder],Relationship Issues,Insomnia
+Can you help me with anxious?,[Response Placeholder],Burnout,Perfectionism
+How can I handle fearful in my life?,[Response Placeholder],Loneliness,Future Uncertainty
+Why does guilty feel so overwhelming?,[Response Placeholder],Stress,Self-Worth
+What are some ways to manage sad?,[Response Placeholder],Panic Attacks,Procrastination
+I'm struggling with stressed. Can you help?,[Response Placeholder],Relationship Issues,Fear of Rejection
+I'm struggling with worried. Can you help?,[Response Placeholder],Relationship Issues,Insomnia
+How can I get over fearful?,[Response Placeholder],Burnout,Body Image Issues
+Why do I feel insecure?,[Response Placeholder],Sleep Problems,Fear of Rejection
+What can I do when unloved affects me?,[Response Placeholder],Relationship Issues,Insomnia
+How can I handle upset in my life?,[Response Placeholder],Guilt,Fear of Rejection
+Why do I feel overwhelmed?,[Response Placeholder],Anger,Body Image Issues
+What can I do when guilty affects me?,[Response Placeholder],Relationship Issues,Decision-Making
+Can you help me with hopeless?,[Response Placeholder],Self-Esteem,Decision-Making
+What can I do when unloved affects me?,[Response Placeholder],Anger,Body Image Issues
+What are some ways to manage angry?,[Response Placeholder],Relationship Issues,Work Stress
+How do I deal with insecure?,[Response Placeholder],Loneliness,Self-Worth
+What are some ways to manage sad?,[Response Placeholder],Anxiety,Future Uncertainty
+How can I get over guilty?,[Response Placeholder],Grief,Trouble Concentrating
+What should I do when lonely?,[Response Placeholder],Anger,Perfectionism
+I can't stop feeling worthless. What should I do?,[Response Placeholder],Panic Attacks,Emotional Exhaustion
+Why do I always feel unloved?,[Response Placeholder],Anger,Social Isolation
+I'm struggling with nervous. Can you help?,[Response Placeholder],Panic Attacks,Work Stress
+I can't stop feeling nervous. What should I do?,[Response Placeholder],Loneliness,Fear of Rejection
+How can I cope with worried?,[Response Placeholder],Guilt,Procrastination
+How can I get over insecure?,[Response Placeholder],Anger,Overthinking
+What should I do when anxious?,[Response Placeholder],Anxiety,Future Uncertainty
+Why do I always feel anxious?,[Response Placeholder],Sadness,Work Stress
+I'm struggling with hopeless. Can you help?,[Response Placeholder],Stress,Work Stress
+Why do I always feel stressed?,[Response Placeholder],Self-Esteem,Work Stress
+How do I stop upset?,[Response Placeholder],Fear,Feeling Unsupported
+What should I do when overwhelmed?,[Response Placeholder],Anxiety,Emotional Exhaustion
+I can't stop feeling guilty. What should I do?,[Response Placeholder],Sleep Problems,Fear of Rejection
+What are some ways to manage sad?,[Response Placeholder],Panic Attacks,Decision-Making
+Why do I always feel lonely?,[Response Placeholder],Sleep Problems,Insomnia
+How can I get over worried?,[Response Placeholder],Self-Esteem,Work Stress
+Why does nervous feel so overwhelming?,[Response Placeholder],Stress,Body Image Issues
+What can I do when I'm feeling insecure?,[Response Placeholder],Self-Esteem,Perfectionism
+What can I do when I'm feeling stressed?,[Response Placeholder],Anxiety,Social Isolation
+How do I stop insecure?,[Response Placeholder],Fear,Self-Worth
+How can I handle fearful in my life?,[Response Placeholder],Grief,Feeling Unsupported
+I can't stop feeling hopeless. What should I do?,[Response Placeholder],Panic Attacks,Future Uncertainty
+What can I do when I'm feeling stressed?,[Response Placeholder],Burnout,Overthinking
+Why does overwhelmed feel so overwhelming?,[Response Placeholder],Depression,Perfectionism
+What should I do when stressed?,[Response Placeholder],Depression,Decision-Making
+I can't stop feeling guilty. What should I do?,[Response Placeholder],Panic Attacks,Social Isolation
+What can I do when unloved affects me?,[Response Placeholder],Loneliness,Future Uncertainty
+Why do I feel guilty?,[Response Placeholder],Anxiety,Decision-Making
+Why do I always feel worthless?,[Response Placeholder],Anxiety,Overthinking
+How can I handle anxious in my life?,[Response Placeholder],Sadness,Work Stress
+How do I stop worthless?,[Response Placeholder],Loneliness,Overthinking
+What can I do when I'm feeling lonely?,[Response Placeholder],Sadness,Trouble Concentrating
+How do I deal with sad?,[Response Placeholder],Anxiety,Regret
+How do I stop angry?,[Response Placeholder],Relationship Issues,Self-Worth
+Can you help me with unloved?,[Response Placeholder],Burnout,Feeling Unsupported
+How can I cope with nervous?,[Response Placeholder],Anger,Future Uncertainty
+What can I do when upset affects me?,[Response Placeholder],Anxiety,Future Uncertainty
+I can't stop feeling sad. What should I do?,[Response Placeholder],Social Anxiety,Decision-Making
+Why do I always feel fearful?,[Response Placeholder],Sadness,Trouble Concentrating
+What can I do when fearful affects me?,[Response Placeholder],Panic Attacks,Social Isolation
+I'm struggling with unloved. Can you help?,[Response Placeholder],Relationship Issues,Work Stress
+How can I handle upset in my life?,[Response Placeholder],Grief,Regret
+How can I get over fearful?,[Response Placeholder],Anger,Body Image Issues
+I can't stop feeling overwhelmed. What should I do?,[Response Placeholder],Anger,Emotional Exhaustion
+How do I deal with insecure?,[Response Placeholder],Guilt,Self-Worth
+Why do I always feel overwhelmed?,[Response Placeholder],Relationship Issues,Procrastination
+Why do I feel anxious?,[Response Placeholder],Social Anxiety,Insomnia
+What can I do when I'm feeling sad?,[Response Placeholder],Fear,Feeling Unsupported
+How can I get over sad?,[Response Placeholder],Self-Esteem,Feeling Unsupported
+What are some ways to manage nervous?,[Response Placeholder],Anger,Decision-Making
+I'm struggling with overwhelmed. Can you help?,[Response Placeholder],Self-Esteem,Procrastination
+Why do I feel anxious?,[Response Placeholder],Grief,Feeling Unsupported
+How can I handle sad in my life?,[Response Placeholder],Self-Esteem,Overthinking
+What can I do when I'm feeling worthless?,[Response Placeholder],Depression,Decision-Making
+What can I do when I'm feeling stressed?,[Response Placeholder],Depression,Trouble Concentrating
+How can I get over fearful?,[Response Placeholder],Anxiety,Fear of Rejection
+Why do I feel worthless?,[Response Placeholder],Grief,Feeling Unsupported
+How do I deal with insecure?,[Response Placeholder],Panic Attacks,Future Uncertainty
+I can't stop feeling lonely. What should I do?,[Response Placeholder],Grief,Procrastination
+I can't stop feeling insecure. What should I do?,[Response Placeholder],Loneliness,Work Stress
+What can I do when I'm feeling nervous?,[Response Placeholder],Anxiety,Social Isolation
+What can I do when overwhelmed affects me?,[Response Placeholder],Fear,Overthinking
+I can't stop feeling overwhelmed. What should I do?,[Response Placeholder],Sadness,Future Uncertainty
+What can I do when hopeless affects me?,[Response Placeholder],Panic Attacks,Decision-Making
+What should I do when hopeless?,[Response Placeholder],Loneliness,Insomnia
+What should I do when guilty?,[Response Placeholder],Relationship Issues,Work Stress
+How can I handle sad in my life?,[Response Placeholder],Self-Esteem,Future Uncertainty
+I'm struggling with worried. Can you help?,[Response Placeholder],Depression,Overthinking
+Why do I always feel guilty?,[Response Placeholder],Sleep Problems,Future Uncertainty
+What should I do when anxious?,[Response Placeholder],Depression,Decision-Making
+I can't stop feeling overwhelmed. What should I do?,[Response Placeholder],Sadness,Future Uncertainty
+I can't stop feeling overwhelmed. What should I do?,[Response Placeholder],Loneliness,Decision-Making
+What can I do when I'm feeling worried?,[Response Placeholder],Anger,Fear of Rejection
+What can I do when nervous affects me?,[Response Placeholder],Anxiety,Insomnia
+I'm struggling with lonely. Can you help?,[Response Placeholder],Burnout,Perfectionism
+How can I handle insecure in my life?,[Response Placeholder],Self-Esteem,Insomnia
+Can you help me with worthless?,[Response Placeholder],Social Anxiety,Overthinking
+Why does hopeless feel so overwhelming?,[Response Placeholder],Sadness,Procrastination
+Why do I always feel upset?,[Response Placeholder],Burnout,Trouble Concentrating
+I'm struggling with worried. Can you help?,[Response Placeholder],Guilt,Self-Worth
+Why does lonely feel so overwhelming?,[Response Placeholder],Anger,Trouble Concentrating
+What can I do when I'm feeling insecure?,[Response Placeholder],Anger,Procrastination
+Why do I always feel lonely?,[Response Placeholder],Social Anxiety,Body Image Issues
+How do I deal with stressed?,[Response Placeholder],Loneliness,Insomnia
+What can I do when I'm feeling upset?,[Response Placeholder],Anxiety,Decision-Making
+How do I deal with nervous?,[Response Placeholder],Sleep Problems,Trouble Concentrating
+What are some ways to manage sad?,[Response Placeholder],Sadness,Decision-Making
+I can't stop feeling lonely. What should I do?,[Response Placeholder],Fear,Social Isolation
+Why does fearful feel so overwhelming?,[Response Placeholder],Loneliness,Work Stress
+Why do I feel upset?,[Response Placeholder],Self-Esteem,Body Image Issues
+I can't stop feeling guilty. What should I do?,[Response Placeholder],Depression,Trouble Concentrating
+How can I get over overwhelmed?,[Response Placeholder],Loneliness,Procrastination
+Can you help me with unloved?,[Response Placeholder],Anxiety,Work Stress
+Why do I feel nervous?,[Response Placeholder],Fear,Perfectionism
+Why do I always feel guilty?,[Response Placeholder],Fear,Overthinking
+I'm struggling with overwhelmed. Can you help?,[Response Placeholder],Anger,Emotional Exhaustion
+Why do I feel overwhelmed?,[Response Placeholder],Relationship Issues,Future Uncertainty
+How can I cope with worthless?,[Response Placeholder],Anger,Trouble Concentrating
+What should I do when overwhelmed?,[Response Placeholder],Social Anxiety,Overthinking
+How do I deal with hopeless?,[Response Placeholder],Panic Attacks,Feeling Unsupported
+What should I do when overwhelmed?,[Response Placeholder],Depression,Perfectionism
+How can I get over anxious?,[Response Placeholder],Sadness,Overthinking
+Why do I feel overwhelmed?,[Response Placeholder],Stress,Overthinking
+Why do I feel angry?,[Response Placeholder],Grief,Fear of Rejection
+I can't stop feeling guilty. What should I do?,[Response Placeholder],Sadness,Self-Worth
+Why do I feel guilty?,[Response Placeholder],Depression,Trouble Concentrating
+Why do I feel hopeless?,[Response Placeholder],Stress,Regret
+How can I cope with anxious?,[Response Placeholder],Stress,Trouble Concentrating
+How do I deal with hopeless?,[Response Placeholder],Sadness,Work Stress
+How do I deal with worried?,[Response Placeholder],Burnout,Decision-Making
+How do I stop nervous?,[Response Placeholder],Panic Attacks,Work Stress
+Why do I feel upset?,[Response Placeholder],Stress,Decision-Making
+How do I deal with hopeless?,[Response Placeholder],Depression,Self-Worth
+I'm struggling with anxious. Can you help?,[Response Placeholder],Self-Esteem,Procrastination
+Why do I always feel nervous?,[Response Placeholder],Fear,Self-Worth
+Why do I always feel guilty?,[Response Placeholder],Self-Esteem,Self-Worth
+How can I cope with guilty?,[Response Placeholder],Loneliness,Emotional Exhaustion
+I can't stop feeling hopeless. What should I do?,[Response Placeholder],Sleep Problems,Perfectionism
+What should I do when guilty?,[Response Placeholder],Sleep Problems,Social Isolation
+How can I cope with worried?,[Response Placeholder],Grief,Procrastination
+What should I do when angry?,[Response Placeholder],Grief,Social Isolation
+How can I get over lonely?,[Response Placeholder],Grief,Insomnia
+I can't stop feeling lonely. What should I do?,[Response Placeholder],Panic Attacks,Perfectionism
+How can I cope with unloved?,[Response Placeholder],Relationship Issues,Feeling Unsupported
+Why do I feel insecure?,[Response Placeholder],Sadness,Overthinking
+What can I do when I'm feeling sad?,[Response Placeholder],Stress,Procrastination
+What can I do when insecure affects me?,[Response Placeholder],Anxiety,Future Uncertainty
+What can I do when I'm feeling unloved?,[Response Placeholder],Loneliness,Body Image Issues
+What should I do when insecure?,[Response Placeholder],Loneliness,Insomnia
+I can't stop feeling worried. What should I do?,[Response Placeholder],Sadness,Overthinking
+What can I do when hopeless affects me?,[Response Placeholder],Sadness,Trouble Concentrating
+Can you help me with angry?,[Response Placeholder],Loneliness,Social Isolation
+What should I do when angry?,[Response Placeholder],Grief,Future Uncertainty
+Why does hopeless feel so overwhelming?,[Response Placeholder],Sadness,Work Stress
+How do I stop unloved?,[Response Placeholder],Depression,Feeling Unsupported
+What are some ways to manage guilty?,[Response Placeholder],Sadness,Insomnia
+Why do I feel stressed?,[Response Placeholder],Panic Attacks,Body Image Issues
+What should I do when unloved?,[Response Placeholder],Anxiety,Procrastination
+How can I get over insecure?,[Response Placeholder],Anger,Trouble Concentrating
+What should I do when nervous?,[Response Placeholder],Loneliness,Feeling Unsupported
+Can you help me with worthless?,[Response Placeholder],Burnout,Body Image Issues
+Why does anxious feel so overwhelming?,[Response Placeholder],Stress,Trouble Concentrating
+How can I handle overwhelmed in my life?,[Response Placeholder],Stress,Overthinking
+I can't stop feeling upset. What should I do?,[Response Placeholder],Depression,Social Isolation
+How can I get over hopeless?,[Response Placeholder],Loneliness,Regret
+What can I do when I'm feeling angry?,[Response Placeholder],Relationship Issues,Decision-Making
+Why do I feel unloved?,[Response Placeholder],Sadness,Social Isolation
+Why do I always feel nervous?,[Response Placeholder],Fear,Social Isolation
+How do I stop stressed?,[Response Placeholder],Relationship Issues,Future Uncertainty
+What should I do when stressed?,[Response Placeholder],Relationship Issues,Emotional Exhaustion
+How can I cope with angry?,[Response Placeholder],Anger,Decision-Making
+I can't stop feeling lonely. What should I do?,[Response Placeholder],Stress,Fear of Rejection
+What can I do when worried affects me?,[Response Placeholder],Anger,Procrastination
+What are some ways to manage stressed?,[Response Placeholder],Depression,Regret
+What are some ways to manage unloved?,[Response Placeholder],Relationship Issues,Future Uncertainty
+What can I do when stressed affects me?,[Response Placeholder],Social Anxiety,Trouble Concentrating
+What should I do when overwhelmed?,[Response Placeholder],Sadness,Body Image Issues
+What can I do when I'm feeling nervous?,[Response Placeholder],Burnout,Self-Worth
+How can I get over sad?,[Response Placeholder],Grief,Perfectionism
+How can I cope with anxious?,[Response Placeholder],Grief,Future Uncertainty
+How can I get over overwhelmed?,[Response Placeholder],Social Anxiety,Regret
+Why does insecure feel so overwhelming?,[Response Placeholder],Panic Attacks,Decision-Making
+Why do I always feel overwhelmed?,[Response Placeholder],Social Anxiety,Overthinking
+I can't stop feeling worried. What should I do?,[Response Placeholder],Depression,Decision-Making
+Why do I always feel nervous?,[Response Placeholder],Grief,Trouble Concentrating
+How can I cope with sad?,[Response Placeholder],Stress,Self-Worth
+What can I do when I'm feeling hopeless?,[Response Placeholder],Grief,Work Stress
+Why do I feel worthless?,[Response Placeholder],Relationship Issues,Social Isolation
+How do I deal with sad?,[Response Placeholder],Guilt,Feeling Unsupported
+I'm struggling with guilty. Can you help?,[Response Placeholder],Panic Attacks,Overthinking
+Why does worried feel so overwhelming?,[Response Placeholder],Relationship Issues,Regret
+What can I do when I'm feeling lonely?,[Response Placeholder],Guilt,Self-Worth
+What can I do when lonely affects me?,[Response Placeholder],Fear,Self-Worth
+How do I deal with overwhelmed?,[Response Placeholder],Relationship Issues,Insomnia
+Why do I always feel stressed?,[Response Placeholder],Anger,Insomnia
+What can I do when stressed affects me?,[Response Placeholder],Depression,Insomnia
+Why do I feel insecure?,[Response Placeholder],Stress,Overthinking
+Why does hopeless feel so overwhelming?,[Response Placeholder],Sadness,Regret
+What can I do when I'm feeling worthless?,[Response Placeholder],Guilt,Body Image Issues
+How can I cope with guilty?,[Response Placeholder],Burnout,Trouble Concentrating
+What should I do when worried?,[Response Placeholder],Relationship Issues,Self-Worth
+Can you help me with guilty?,[Response Placeholder],Grief,Feeling Unsupported
+Why does nervous feel so overwhelming?,[Response Placeholder],Stress,Overthinking
+I can't stop feeling fearful. What should I do?,[Response Placeholder],Panic Attacks,Work Stress
+What are some ways to manage unloved?,[Response Placeholder],Panic Attacks,Body Image Issues
+I can't stop feeling anxious. What should I do?,[Response Placeholder],Burnout,Emotional Exhaustion
+How do I deal with lonely?,[Response Placeholder],Sadness,Social Isolation
+What are some ways to manage insecure?,[Response Placeholder],Guilt,Decision-Making
+What should I do when stressed?,[Response Placeholder],Fear,Trouble Concentrating
+How can I cope with sad?,[Response Placeholder],Burnout,Work Stress
+What can I do when I'm feeling worthless?,[Response Placeholder],Social Anxiety,Future Uncertainty
+How can I cope with fearful?,[Response Placeholder],Relationship Issues,Trouble Concentrating
+Can you help me with lonely?,[Response Placeholder],Sleep Problems,Trouble Concentrating
+What can I do when unloved affects me?,[Response Placeholder],Anxiety,Perfectionism
+How can I get over worthless?,[Response Placeholder],Stress,Trouble Concentrating
+How do I stop sad?,[Response Placeholder],Depression,Fear of Rejection
+How can I handle worthless in my life?,[Response Placeholder],Depression,Emotional Exhaustion
+Why do I always feel worried?,[Response Placeholder],Anxiety,Work Stress
+Why do I always feel upset?,[Response Placeholder],Guilt,Insomnia
+I can't stop feeling worried. What should I do?,[Response Placeholder],Guilt,Regret
+How do I stop fearful?,[Response Placeholder],Self-Esteem,Trouble Concentrating
+How can I handle fearful in my life?,[Response Placeholder],Guilt,Body Image Issues
+How do I deal with sad?,[Response Placeholder],Anxiety,Overthinking
+What can I do when I'm feeling sad?,[Response Placeholder],Sadness,Perfectionism
+What should I do when hopeless?,[Response Placeholder],Sadness,Social Isolation
+How can I handle lonely in my life?,[Response Placeholder],Stress,Trouble Concentrating
+What should I do when stressed?,[Response Placeholder],Grief,Overthinking
+Why do I feel angry?,[Response Placeholder],Sleep Problems,Trouble Concentrating
+Can you help me with unloved?,[Response Placeholder],Sadness,Fear of Rejection
+How do I deal with unloved?,[Response Placeholder],Stress,Work Stress
+How can I get over nervous?,[Response Placeholder],Grief,Feeling Unsupported
+What should I do when worthless?,[Response Placeholder],Sadness,Insomnia
+Why does worried feel so overwhelming?,[Response Placeholder],Burnout,Future Uncertainty
+Can you help me with hopeless?,[Response Placeholder],Burnout,Decision-Making
+Can you help me with hopeless?,[Response Placeholder],Relationship Issues,Self-Worth
+What are some ways to manage worried?,[Response Placeholder],Stress,Insomnia
+What can I do when I'm feeling upset?,[Response Placeholder],Sadness,Fear of Rejection
+Why do I always feel stressed?,[Response Placeholder],Fear,Insomnia
+What are some ways to manage fearful?,[Response Placeholder],Sleep Problems,Work Stress
+What should I do when upset?,[Response Placeholder],Burnout,Insomnia
+What are some ways to manage guilty?,[Response Placeholder],Burnout,Regret
+How can I cope with insecure?,[Response Placeholder],Sleep Problems,Work Stress
+How do I deal with nervous?,[Response Placeholder],Sadness,Trouble Concentrating
+What can I do when lonely affects me?,[Response Placeholder],Stress,Procrastination
+How do I deal with nervous?,[Response Placeholder],Panic Attacks,Overthinking
+Why do I feel worried?,[Response Placeholder],Fear,Self-Worth
+How can I handle upset in my life?,[Response Placeholder],Sleep Problems,Future Uncertainty
+How do I stop hopeless?,[Response Placeholder],Anger,Feeling Unsupported
+Why does angry feel so overwhelming?,[Response Placeholder],Sadness,Self-Worth
+How do I stop angry?,[Response Placeholder],Relationship Issues,Trouble Concentrating
+What can I do when worthless affects me?,[Response Placeholder],Burnout,Work Stress
+I'm struggling with unloved. Can you help?,[Response Placeholder],Depression,Regret
+Can you help me with nervous?,[Response Placeholder],Depression,Procrastination
+Why do I feel angry?,[Response Placeholder],Panic Attacks,Feeling Unsupported
+I'm struggling with nervous. Can you help?,[Response Placeholder],Self-Esteem,Self-Worth
+Why does overwhelmed feel so overwhelming?,[Response Placeholder],Anxiety,Emotional Exhaustion
+What should I do when stressed?,[Response Placeholder],Sleep Problems,Decision-Making
+How can I cope with guilty?,[Response Placeholder],Anger,Overthinking
+Why does worried feel so overwhelming?,[Response Placeholder],Anxiety,Work Stress
+How can I cope with anxious?,[Response Placeholder],Social Anxiety,Perfectionism
+Why do I feel hopeless?,[Response Placeholder],Guilt,Emotional Exhaustion
+What can I do when fearful affects me?,[Response Placeholder],Fear,Regret
+Why do I always feel stressed?,[Response Placeholder],Guilt,Feeling Unsupported
+Why does overwhelmed feel so overwhelming?,[Response Placeholder],Anger,Perfectionism
+I'm struggling with insecure. Can you help?,[Response Placeholder],Anxiety,Regret
+Why do I always feel unloved?,[Response Placeholder],Anxiety,Work Stress
+How do I deal with worried?,[Response Placeholder],Burnout,Decision-Making
+Can you help me with lonely?,[Response Placeholder],Loneliness,Feeling Unsupported
+What should I do when stressed?,[Response Placeholder],Social Anxiety,Future Uncertainty
+What can I do when I'm feeling overwhelmed?,[Response Placeholder],Burnout,Fear of Rejection
+Why does insecure feel so overwhelming?,[Response Placeholder],Anxiety,Feeling Unsupported
+How can I cope with overwhelmed?,[Response Placeholder],Fear,Trouble Concentrating
+What should I do when stressed?,[Response Placeholder],Sleep Problems,Perfectionism
+I'm struggling with upset. Can you help?,[Response Placeholder],Sleep Problems,Work Stress
+What should I do when unloved?,[Response Placeholder],Self-Esteem,Fear of Rejection
+Can you help me with lonely?,[Response Placeholder],Self-Esteem,Social Isolation
+What should I do when guilty?,[Response Placeholder],Depression,Regret
+I can't stop feeling guilty. What should I do?,[Response Placeholder],Anger,Overthinking
+Why do I feel hopeless?,[Response Placeholder],Sadness,Work Stress
+Can you help me with worthless?,[Response Placeholder],Relationship Issues,Procrastination
+What can I do when anxious affects me?,[Response Placeholder],Relationship Issues,Decision-Making
+How can I cope with lonely?,[Response Placeholder],Sleep Problems,Social Isolation
+How do I stop insecure?,[Response Placeholder],Depression,Procrastination
+Why do I always feel nervous?,[Response Placeholder],Panic Attacks,Self-Worth
+How can I get over fearful?,[Response Placeholder],Sadness,Regret
+What are some ways to manage upset?,[Response Placeholder],Social Anxiety,Fear of Rejection
+Why do I always feel worthless?,[Response Placeholder],Sleep Problems,Insomnia
+What should I do when nervous?,[Response Placeholder],Stress,Feeling Unsupported
+What are some ways to manage angry?,[Response Placeholder],Panic Attacks,Body Image Issues
+How do I stop anxious?,[Response Placeholder],Stress,Work Stress
+What can I do when I'm feeling lonely?,[Response Placeholder],Grief,Perfectionism
+Can you help me with unloved?,[Response Placeholder],Burnout,Insomnia
+How do I stop unloved?,[Response Placeholder],Guilt,Self-Worth
+What are some ways to manage fearful?,[Response Placeholder],Sleep Problems,Work Stress
+How do I deal with overwhelmed?,[Response Placeholder],Grief,Future Uncertainty
+How can I handle lonely in my life?,[Response Placeholder],Depression,Fear of Rejection
+How can I cope with overwhelmed?,[Response Placeholder],Sadness,Feeling Unsupported
+Can you help me with overwhelmed?,[Response Placeholder],Loneliness,Future Uncertainty
+How can I handle anxious in my life?,[Response Placeholder],Anxiety,Body Image Issues
+Why do I always feel overwhelmed?,[Response Placeholder],Self-Esteem,Future Uncertainty
+What can I do when anxious affects me?,[Response Placeholder],Grief,Social Isolation
+What can I do when I'm feeling angry?,[Response Placeholder],Depression,Self-Worth
+What are some ways to manage nervous?,[Response Placeholder],Social Anxiety,Emotional Exhaustion
+I can't stop feeling worthless. What should I do?,[Response Placeholder],Anger,Perfectionism
+Can you help me with unloved?,[Response Placeholder],Loneliness,Body Image Issues
+I'm struggling with fearful. Can you help?,[Response Placeholder],Fear,Feeling Unsupported
+What can I do when guilty affects me?,[Response Placeholder],Stress,Insomnia
+Why does anxious feel so overwhelming?,[Response Placeholder],Loneliness,Insomnia
+How can I get over upset?,[Response Placeholder],Guilt,Fear of Rejection
+I can't stop feeling unloved. What should I do?,[Response Placeholder],Sleep Problems,Overthinking
+I can't stop feeling nervous. What should I do?,[Response Placeholder],Burnout,Future Uncertainty
+What can I do when stressed affects me?,[Response Placeholder],Social Anxiety,Overthinking
+Why does worthless feel so overwhelming?,[Response Placeholder],Relationship Issues,Fear of Rejection
+I'm struggling with anxious. Can you help?,[Response Placeholder],Panic Attacks,Trouble Concentrating
+What are some ways to manage anxious?,[Response Placeholder],Anger,Trouble Concentrating
+Why do I feel lonely?,[Response Placeholder],Fear,Social Isolation
+What should I do when overwhelmed?,[Response Placeholder],Loneliness,Emotional Exhaustion
+What can I do when I'm feeling overwhelmed?,[Response Placeholder],Sleep Problems,Self-Worth
+How do I deal with stressed?,[Response Placeholder],Burnout,Regret
+Why do I feel stressed?,[Response Placeholder],Anger,Decision-Making
+Why does guilty feel so overwhelming?,[Response Placeholder],Self-Esteem,Emotional Exhaustion
+What can I do when I'm feeling worried?,[Response Placeholder],Stress,Emotional Exhaustion
+How can I get over sad?,[Response Placeholder],Relationship Issues,Work Stress
+I can't stop feeling hopeless. What should I do?,[Response Placeholder],Loneliness,Social Isolation
+How can I cope with upset?,[Response Placeholder],Social Anxiety,Overthinking
+I'm struggling with insecure. Can you help?,[Response Placeholder],Fear,Feeling Unsupported
+Why does upset feel so overwhelming?,[Response Placeholder],Fear,Body Image Issues
+What are some ways to manage insecure?,[Response Placeholder],Stress,Decision-Making
+What can I do when I'm feeling lonely?,[Response Placeholder],Loneliness,Future Uncertainty
+How do I deal with worried?,[Response Placeholder],Burnout,Fear of Rejection
+How do I deal with worried?,[Response Placeholder],Depression,Overthinking
+I'm struggling with fearful. Can you help?,[Response Placeholder],Anger,Procrastination
+How do I stop angry?,[Response Placeholder],Fear,Future Uncertainty
+How can I get over fearful?,[Response Placeholder],Relationship Issues,Fear of Rejection
+What are some ways to manage anxious?,[Response Placeholder],Relationship Issues,Feeling Unsupported
+How do I stop worried?,[Response Placeholder],Grief,Future Uncertainty
+How do I deal with overwhelmed?,[Response Placeholder],Anger,Emotional Exhaustion
+How can I handle lonely in my life?,[Response Placeholder],Burnout,Decision-Making
+What can I do when I'm feeling insecure?,[Response Placeholder],Anger,Decision-Making
+Why do I always feel angry?,[Response Placeholder],Loneliness,Procrastination
+How can I handle fearful in my life?,[Response Placeholder],Social Anxiety,Perfectionism
+How do I deal with hopeless?,[Response Placeholder],Panic Attacks,Future Uncertainty
+Can you help me with lonely?,[Response Placeholder],Grief,Emotional Exhaustion
+I can't stop feeling guilty. What should I do?,[Response Placeholder],Self-Esteem,Body Image Issues
+What should I do when hopeless?,[Response Placeholder],Stress,Emotional Exhaustion
+What can I do when I'm feeling unloved?,[Response Placeholder],Panic Attacks,Fear of Rejection
+How do I stop guilty?,[Response Placeholder],Loneliness,Work Stress
+How can I handle unloved in my life?,[Response Placeholder],Sleep Problems,Work Stress
+Why do I feel unloved?,[Response Placeholder],Guilt,Decision-Making
+What can I do when I'm feeling guilty?,[Response Placeholder],Anxiety,Feeling Unsupported
+What can I do when lonely affects me?,[Response Placeholder],Panic Attacks,Trouble Concentrating
+I can't stop feeling anxious. What should I do?,[Response Placeholder],Fear,Future Uncertainty
+I'm struggling with worried. Can you help?,[Response Placeholder],Panic Attacks,Future Uncertainty
+What are some ways to manage anxious?,[Response Placeholder],Fear,Self-Worth
+What can I do when worried affects me?,[Response Placeholder],Loneliness,Regret
+How can I get over insecure?,[Response Placeholder],Sadness,Insomnia
+How can I handle overwhelmed in my life?,[Response Placeholder],Social Anxiety,Regret
+What should I do when hopeless?,[Response Placeholder],Grief,Self-Worth
+What can I do when I'm feeling anxious?,[Response Placeholder],Fear,Procrastination
+What can I do when hopeless affects me?,[Response Placeholder],Social Anxiety,Future Uncertainty
+How can I cope with anxious?,[Response Placeholder],Stress,Trouble Concentrating
+How do I stop guilty?,[Response Placeholder],Panic Attacks,Future Uncertainty
+What are some ways to manage upset?,[Response Placeholder],Depression,Decision-Making
+How can I handle worthless in my life?,[Response Placeholder],Burnout,Future Uncertainty
+How do I deal with insecure?,[Response Placeholder],Panic Attacks,Emotional Exhaustion
+How can I handle fearful in my life?,[Response Placeholder],Self-Esteem,Overthinking
+Why do I always feel nervous?,[Response Placeholder],Sadness,Procrastination
+Can you help me with worthless?,[Response Placeholder],Anxiety,Overthinking
+Why does hopeless feel so overwhelming?,[Response Placeholder],Fear,Emotional Exhaustion
+What should I do when angry?,[Response Placeholder],Panic Attacks,Emotional Exhaustion
+How can I get over upset?,[Response Placeholder],Self-Esteem,Self-Worth
+How do I deal with nervous?,[Response Placeholder],Depression,Regret
+How can I get over anxious?,[Response Placeholder],Depression,Procrastination
+Why does stressed feel so overwhelming?,[Response Placeholder],Grief,Insomnia
+What should I do when overwhelmed?,[Response Placeholder],Social Anxiety,Overthinking
+How can I cope with worried?,[Response Placeholder],Stress,Perfectionism
+How can I get over angry?,[Response Placeholder],Anger,Future Uncertainty
+I can't stop feeling lonely. What should I do?,[Response Placeholder],Burnout,Overthinking
+What are some ways to manage unloved?,[Response Placeholder],Relationship Issues,Social Isolation
+Can you help me with worthless?,[Response Placeholder],Sadness,Decision-Making
+How can I get over guilty?,[Response Placeholder],Guilt,Social Isolation
+Can you help me with overwhelmed?,[Response Placeholder],Panic Attacks,Decision-Making
+How can I cope with overwhelmed?,[Response Placeholder],Sadness,Regret
+Can you help me with unloved?,[Response Placeholder],Panic Attacks,Emotional Exhaustion
+How can I cope with stressed?,[Response Placeholder],Sleep Problems,Regret
+Why do I feel nervous?,[Response Placeholder],Sleep Problems,Trouble Concentrating
+Why does nervous feel so overwhelming?,[Response Placeholder],Panic Attacks,Perfectionism
+Why does anxious feel so overwhelming?,[Response Placeholder],Fear,Feeling Unsupported
+How do I stop upset?,[Response Placeholder],Anxiety,Feeling Unsupported
+How can I cope with fearful?,[Response Placeholder],Sadness,Trouble Concentrating
+Why do I feel hopeless?,[Response Placeholder],Fear,Perfectionism
+Can you help me with lonely?,[Response Placeholder],Sadness,Future Uncertainty
+How do I stop nervous?,[Response Placeholder],Stress,Emotional Exhaustion
+Why do I always feel worried?,[Response Placeholder],Sadness,Overthinking
+How do I deal with stressed?,[Response Placeholder],Guilt,Fear of Rejection
+Why does hopeless feel so overwhelming?,[Response Placeholder],Self-Esteem,Future Uncertainty
+Why do I feel upset?,[Response Placeholder],Stress,Self-Worth
+Why do I always feel insecure?,[Response Placeholder],Social Anxiety,Regret
+What are some ways to manage stressed?,[Response Placeholder],Grief,Social Isolation
+Why do I always feel upset?,[Response Placeholder],Guilt,Trouble Concentrating
+I'm struggling with stressed. Can you help?,[Response Placeholder],Anger,Trouble Concentrating
+What are some ways to manage guilty?,[Response Placeholder],Anxiety,Regret
+Why does hopeless feel so overwhelming?,[Response Placeholder],Relationship Issues,Emotional Exhaustion
+I can't stop feeling fearful. What should I do?,[Response Placeholder],Anger,Overthinking
+How can I cope with worried?,[Response Placeholder],Grief,Fear of Rejection
+What can I do when lonely affects me?,[Response Placeholder],Grief,Insomnia
+I can't stop feeling angry. What should I do?,[Response Placeholder],Fear,Procrastination
+How can I handle worried in my life?,[Response Placeholder],Depression,Future Uncertainty
+What can I do when I'm feeling stressed?,[Response Placeholder],Social Anxiety,Emotional Exhaustion
+Why does stressed feel so overwhelming?,[Response Placeholder],Fear,Overthinking
+How can I get over unloved?,[Response Placeholder],Depression,Work Stress
+What are some ways to manage anxious?,[Response Placeholder],Sleep Problems,Procrastination
+How can I cope with guilty?,[Response Placeholder],Anxiety,Feeling Unsupported
+What should I do when lonely?,[Response Placeholder],Guilt,Procrastination
+Why do I feel hopeless?,[Response Placeholder],Grief,Social Isolation
+What can I do when I'm feeling fearful?,[Response Placeholder],Relationship Issues,Feeling Unsupported
+What can I do when I'm feeling insecure?,[Response Placeholder],Loneliness,Feeling Unsupported
+I'm struggling with anxious. Can you help?,[Response Placeholder],Self-Esteem,Emotional Exhaustion
+Why does hopeless feel so overwhelming?,[Response Placeholder],Sleep Problems,Emotional Exhaustion
+I'm struggling with sad. Can you help?,[Response Placeholder],Self-Esteem,Feeling Unsupported
+What can I do when anxious affects me?,[Response Placeholder],Fear,Fear of Rejection
+How do I stop unloved?,[Response Placeholder],Loneliness,Overthinking
+I'm struggling with angry. Can you help?,[Response Placeholder],Loneliness,Work Stress
+What should I do when stressed?,[Response Placeholder],Burnout,Future Uncertainty
+What can I do when hopeless affects me?,[Response Placeholder],Loneliness,Regret
+Why does worthless feel so overwhelming?,[Response Placeholder],Stress,Insomnia
+What are some ways to manage upset?,[Response Placeholder],Stress,Work Stress
+What are some ways to manage worried?,[Response Placeholder],Guilt,Work Stress
+Why do I always feel guilty?,[Response Placeholder],Burnout,Insomnia
+Can you help me with guilty?,[Response Placeholder],Sleep Problems,Emotional Exhaustion
+Why does overwhelmed feel so overwhelming?,[Response Placeholder],Fear,Overthinking
+What should I do when upset?,[Response Placeholder],Sleep Problems,Procrastination
+What can I do when insecure affects me?,[Response Placeholder],Sadness,Work Stress
+How do I stop anxious?,[Response Placeholder],Sadness,Overthinking
+What can I do when I'm feeling nervous?,[Response Placeholder],Burnout,Social Isolation
+How can I get over upset?,[Response Placeholder],Social Anxiety,Self-Worth
+I'm struggling with overwhelmed. Can you help?,[Response Placeholder],Stress,Insomnia
+Why does fearful feel so overwhelming?,[Response Placeholder],Relationship Issues,Emotional Exhaustion
+How can I handle upset in my life?,[Response Placeholder],Relationship Issues,Insomnia
+I'm struggling with sad. Can you help?,[Response Placeholder],Panic Attacks,Perfectionism
+Can you help me with upset?,[Response Placeholder],Guilt,Insomnia
+I can't stop feeling nervous. What should I do?,[Response Placeholder],Grief,Feeling Unsupported
+I can't stop feeling unloved. What should I do?,[Response Placeholder],Panic Attacks,Trouble Concentrating
+How can I handle upset in my life?,[Response Placeholder],Burnout,Work Stress
+What can I do when angry affects me?,[Response Placeholder],Stress,Perfectionism
+What should I do when overwhelmed?,[Response Placeholder],Guilt,Self-Worth
+How can I cope with upset?,[Response Placeholder],Grief,Self-Worth
+Why does angry feel so overwhelming?,[Response Placeholder],Stress,Emotional Exhaustion
+Can you help me with guilty?,[Response Placeholder],Anxiety,Decision-Making
+I can't stop feeling sad. What should I do?,[Response Placeholder],Guilt,Trouble Concentrating
+What can I do when sad affects me?,[Response Placeholder],Stress,Trouble Concentrating
+I'm struggling with nervous. Can you help?,[Response Placeholder],Guilt,Decision-Making
+Why does overwhelmed feel so overwhelming?,[Response Placeholder],Anger,Fear of Rejection
+Why does sad feel so overwhelming?,[Response Placeholder],Panic Attacks,Procrastination
+I can't stop feeling angry. What should I do?,[Response Placeholder],Stress,Perfectionism
+What can I do when nervous affects me?,[Response Placeholder],Sadness,Fear of Rejection
+I can't stop feeling worthless. What should I do?,[Response Placeholder],Stress,Feeling Unsupported
+How can I cope with hopeless?,[Response Placeholder],Sleep Problems,Emotional Exhaustion
+Can you help me with fearful?,[Response Placeholder],Anger,Self-Worth
+Why do I feel worried?,[Response Placeholder],Guilt,Perfectionism
+Why do I always feel unloved?,[Response Placeholder],Panic Attacks,Social Isolation
+What can I do when anxious affects me?,[Response Placeholder],Anger,Regret
+Can you help me with unloved?,[Response Placeholder],Panic Attacks,Self-Worth
+How can I handle anxious in my life?,[Response Placeholder],Depression,Regret
+How can I get over angry?,[Response Placeholder],Burnout,Perfectionism
+How do I deal with insecure?,[Response Placeholder],Social Anxiety,Emotional Exhaustion
+Why does overwhelmed feel so overwhelming?,[Response Placeholder],Relationship Issues,Self-Worth
+How can I handle anxious in my life?,[Response Placeholder],Loneliness,Fear of Rejection
+What should I do when fearful?,[Response Placeholder],Social Anxiety,Body Image Issues
+Why do I always feel overwhelmed?,[Response Placeholder],Stress,Social Isolation
+Why do I always feel sad?,[Response Placeholder],Social Anxiety,Self-Worth
+What can I do when sad affects me?,[Response Placeholder],Sadness,Social Isolation
+How can I cope with anxious?,[Response Placeholder],Social Anxiety,Future Uncertainty
+What can I do when stressed affects me?,[Response Placeholder],Depression,Future Uncertainty
+Can you help me with hopeless?,[Response Placeholder],Depression,Feeling Unsupported
+How do I stop hopeless?,[Response Placeholder],Sleep Problems,Emotional Exhaustion
+Why do I feel upset?,[Response Placeholder],Social Anxiety,Emotional Exhaustion
+What should I do when sad?,[Response Placeholder],Loneliness,Social Isolation
+How can I cope with upset?,[Response Placeholder],Guilt,Self-Worth
+What are some ways to manage guilty?,[Response Placeholder],Depression,Self-Worth
+Can you help me with worried?,[Response Placeholder],Loneliness,Overthinking
+What can I do when fearful affects me?,[Response Placeholder],Fear,Emotional Exhaustion
+What can I do when worried affects me?,[Response Placeholder],Anger,Decision-Making
+How can I handle angry in my life?,[Response Placeholder],Burnout,Trouble Concentrating
+How can I cope with overwhelmed?,[Response Placeholder],Self-Esteem,Body Image Issues
+How do I deal with overwhelmed?,[Response Placeholder],Guilt,Future Uncertainty
+Why do I always feel upset?,[Response Placeholder],Sadness,Emotional Exhaustion
+Why does overwhelmed feel so overwhelming?,[Response Placeholder],Stress,Procrastination
+I'm struggling with lonely. Can you help?,[Response Placeholder],Self-Esteem,Decision-Making
+How do I deal with sad?,[Response Placeholder],Depression,Self-Worth
+Can you help me with unloved?,[Response Placeholder],Relationship Issues,Future Uncertainty
+Why does sad feel so overwhelming?,[Response Placeholder],Loneliness,Body Image Issues
+How do I stop unloved?,[Response Placeholder],Sadness,Social Isolation
+Why does worried feel so overwhelming?,[Response Placeholder],Loneliness,Insomnia
+How can I cope with nervous?,[Response Placeholder],Burnout,Perfectionism
+What should I do when lonely?,[Response Placeholder],Anger,Perfectionism
+I'm struggling with nervous. Can you help?,[Response Placeholder],Grief,Procrastination
+What are some ways to manage hopeless?,[Response Placeholder],Self-Esteem,Social Isolation
+Can you help me with worried?,[Response Placeholder],Guilt,Insomnia
+Why does fearful feel so overwhelming?,[Response Placeholder],Fear,Overthinking
+How can I cope with guilty?,[Response Placeholder],Social Anxiety,Emotional Exhaustion
+Why do I always feel anxious?,[Response Placeholder],Depression,Work Stress
+What can I do when I'm feeling guilty?,[Response Placeholder],Burnout,Future Uncertainty
+What should I do when worthless?,[Response Placeholder],Depression,Feeling Unsupported
+What can I do when fearful affects me?,[Response Placeholder],Guilt,Decision-Making
+What can I do when angry affects me?,[Response Placeholder],Sadness,Regret
+What should I do when unloved?,[Response Placeholder],Relationship Issues,Emotional Exhaustion
+How do I stop angry?,[Response Placeholder],Relationship Issues,Perfectionism
+What are some ways to manage nervous?,[Response Placeholder],Sleep Problems,Future Uncertainty
+How can I handle stressed in my life?,[Response Placeholder],Guilt,Social Isolation
+What are some ways to manage hopeless?,[Response Placeholder],Anxiety,Overthinking
+How can I cope with fearful?,[Response Placeholder],Loneliness,Emotional Exhaustion
+How do I deal with sad?,[Response Placeholder],Loneliness,Emotional Exhaustion
+Why do I feel guilty?,[Response Placeholder],Social Anxiety,Procrastination
+What can I do when hopeless affects me?,[Response Placeholder],Loneliness,Emotional Exhaustion
+What should I do when overwhelmed?,[Response Placeholder],Burnout,Insomnia
+How do I stop hopeless?,[Response Placeholder],Self-Esteem,Emotional Exhaustion
+How do I deal with unloved?,[Response Placeholder],Anger,Emotional Exhaustion
+I'm struggling with anxious. Can you help?,[Response Placeholder],Sadness,Emotional Exhaustion
+What can I do when I'm feeling anxious?,[Response Placeholder],Burnout,Fear of Rejection
+What should I do when hopeless?,[Response Placeholder],Social Anxiety,Decision-Making
+How can I cope with angry?,[Response Placeholder],Guilt,Regret
+What can I do when overwhelmed affects me?,[Response Placeholder],Anxiety,Emotional Exhaustion
+How can I cope with hopeless?,[Response Placeholder],Sleep Problems,Procrastination
+How do I stop worried?,[Response Placeholder],Anger,Body Image Issues
+How can I handle nervous in my life?,[Response Placeholder],Anger,Decision-Making
+Why do I always feel overwhelmed?,[Response Placeholder],Relationship Issues,Regret
+What can I do when I'm feeling worried?,[Response Placeholder],Social Anxiety,Social Isolation
+What can I do when hopeless affects me?,[Response Placeholder],Fear,Social Isolation
+I can't stop feeling overwhelmed. What should I do?,[Response Placeholder],Stress,Fear of Rejection
+Why do I feel angry?,[Response Placeholder],Social Anxiety,Feeling Unsupported
+What can I do when I'm feeling upset?,[Response Placeholder],Panic Attacks,Perfectionism
+What are some ways to manage guilty?,[Response Placeholder],Relationship Issues,Insomnia
+How do I deal with upset?,[Response Placeholder],Burnout,Decision-Making
+How can I cope with hopeless?,[Response Placeholder],Anger,Decision-Making
+How do I deal with upset?,[Response Placeholder],Depression,Work Stress
+How do I stop hopeless?,[Response Placeholder],Fear,Regret
+What can I do when upset affects me?,[Response Placeholder],Depression,Feeling Unsupported
+Why do I always feel angry?,[Response Placeholder],Guilt,Procrastination
+Why does nervous feel so overwhelming?,[Response Placeholder],Loneliness,Trouble Concentrating
+What should I do when angry?,[Response Placeholder],Anger,Feeling Unsupported
+Why does worried feel so overwhelming?,[Response Placeholder],Anger,Procrastination
+What are some ways to manage guilty?,[Response Placeholder],Burnout,Procrastination
+I'm struggling with guilty. Can you help?,[Response Placeholder],Grief,Decision-Making
+Why does unloved feel so overwhelming?,[Response Placeholder],Relationship Issues,Overthinking
+How can I cope with worthless?,[Response Placeholder],Guilt,Fear of Rejection
+What should I do when worried?,[Response Placeholder],Panic Attacks,Decision-Making
+Why does upset feel so overwhelming?,[Response Placeholder],Loneliness,Social Isolation
+What can I do when I'm feeling hopeless?,[Response Placeholder],Depression,Insomnia
+Why do I feel hopeless?,[Response Placeholder],Self-Esteem,Procrastination
+How can I handle lonely in my life?,[Response Placeholder],Grief,Perfectionism
+What can I do when hopeless affects me?,[Response Placeholder],Loneliness,Fear of Rejection
+Why do I feel stressed?,[Response Placeholder],Anxiety,Work Stress
+Why do I feel fearful?,[Response Placeholder],Burnout,Work Stress
+Why do I always feel nervous?,[Response Placeholder],Stress,Work Stress
+What can I do when fearful affects me?,[Response Placeholder],Relationship Issues,Work Stress
+What can I do when I'm feeling sad?,[Response Placeholder],Fear,Emotional Exhaustion
+Why do I feel anxious?,[Response Placeholder],Stress,Feeling Unsupported
+How can I cope with guilty?,[Response Placeholder],Panic Attacks,Insomnia
+Why does worried feel so overwhelming?,[Response Placeholder],Sleep Problems,Emotional Exhaustion
+What can I do when guilty affects me?,[Response Placeholder],Sleep Problems,Decision-Making
+Why does anxious feel so overwhelming?,[Response Placeholder],Relationship Issues,Self-Worth
+How do I stop worried?,[Response Placeholder],Loneliness,Insomnia
+What can I do when overwhelmed affects me?,[Response Placeholder],Social Anxiety,Social Isolation
+What can I do when I'm feeling hopeless?,[Response Placeholder],Relationship Issues,Fear of Rejection
+What are some ways to manage insecure?,[Response Placeholder],Relationship Issues,Self-Worth
+Why do I always feel worried?,[Response Placeholder],Anxiety,Social Isolation
+How can I cope with sad?,[Response Placeholder],Self-Esteem,Insomnia
+Why does lonely feel so overwhelming?,[Response Placeholder],Anxiety,Regret
+What can I do when I'm feeling fearful?,[Response Placeholder],Sleep Problems,Self-Worth
+Why do I feel lonely?,[Response Placeholder],Grief,Emotional Exhaustion
+Why do I always feel angry?,[Response Placeholder],Sleep Problems,Insomnia
+Why do I always feel insecure?,[Response Placeholder],Loneliness,Procrastination
+What can I do when angry affects me?,[Response Placeholder],Relationship Issues,Regret
+Can you help me with guilty?,[Response Placeholder],Burnout,Regret
+How can I cope with stressed?,[Response Placeholder],Panic Attacks,Perfectionism
+What can I do when I'm feeling sad?,[Response Placeholder],Fear,Feeling Unsupported
+I can't stop feeling anxious. What should I do?,[Response Placeholder],Fear,Decision-Making
+How can I get over anxious?,[Response Placeholder],Grief,Social Isolation
+Why does upset feel so overwhelming?,[Response Placeholder],Burnout,Insomnia
+Can you help me with fearful?,[Response Placeholder],Social Anxiety,Regret
+How do I deal with sad?,[Response Placeholder],Panic Attacks,Regret
+Why do I always feel guilty?,[Response Placeholder],Self-Esteem,Procrastination
+Why does nervous feel so overwhelming?,[Response Placeholder],Burnout,Body Image Issues
+Can you help me with worried?,[Response Placeholder],Relationship Issues,Overthinking
+I can't stop feeling insecure. What should I do?,[Response Placeholder],Self-Esteem,Decision-Making
+What should I do when fearful?,[Response Placeholder],Relationship Issues,Emotional Exhaustion
+How can I cope with lonely?,[Response Placeholder],Relationship Issues,Social Isolation
+Why do I always feel overwhelmed?,[Response Placeholder],Grief,Emotional Exhaustion
+How can I get over upset?,[Response Placeholder],Self-Esteem,Fear of Rejection
+Why do I feel upset?,[Response Placeholder],Anxiety,Self-Worth
+Why does worried feel so overwhelming?,[Response Placeholder],Sleep Problems,Overthinking
+What can I do when lonely affects me?,[Response Placeholder],Panic Attacks,Regret
+How can I cope with worried?,[Response Placeholder],Sleep Problems,Emotional Exhaustion
+What should I do when guilty?,[Response Placeholder],Social Anxiety,Self-Worth
+Why do I always feel insecure?,[Response Placeholder],Depression,Emotional Exhaustion
+Why does upset feel so overwhelming?,[Response Placeholder],Loneliness,Decision-Making
+How do I deal with angry?,[Response Placeholder],Loneliness,Fear of Rejection
+How can I cope with sad?,[Response Placeholder],Anger,Emotional Exhaustion
+What are some ways to manage stressed?,[Response Placeholder],Self-Esteem,Feeling Unsupported
+What can I do when I'm feeling worried?,[Response Placeholder],Relationship Issues,Decision-Making
+How do I stop angry?,[Response Placeholder],Sadness,Fear of Rejection
+Why does sad feel so overwhelming?,[Response Placeholder],Fear,Work Stress
+How do I deal with stressed?,[Response Placeholder],Sadness,Procrastination
+I'm struggling with lonely. Can you help?,[Response Placeholder],Loneliness,Body Image Issues
+Why do I always feel hopeless?,[Response Placeholder],Burnout,Fear of Rejection
+How can I get over anxious?,[Response Placeholder],Social Anxiety,Work Stress
+How can I handle overwhelmed in my life?,[Response Placeholder],Guilt,Procrastination
+What are some ways to manage nervous?,[Response Placeholder],Panic Attacks,Emotional Exhaustion
+What are some ways to manage overwhelmed?,[Response Placeholder],Guilt,Trouble Concentrating
+I can't stop feeling insecure. What should I do?,[Response Placeholder],Relationship Issues,Work Stress
+How can I cope with anxious?,[Response Placeholder],Fear,Feeling Unsupported
+What should I do when stressed?,[Response Placeholder],Loneliness,Future Uncertainty
+I'm struggling with upset. Can you help?,[Response Placeholder],Loneliness,Trouble Concentrating
+How can I cope with worried?,[Response Placeholder],Loneliness,Procrastination
+What can I do when guilty affects me?,[Response Placeholder],Burnout,Body Image Issues
+What can I do when I'm feeling nervous?,[Response Placeholder],Stress,Feeling Unsupported
+What can I do when anxious affects me?,[Response Placeholder],Fear,Perfectionism
+I'm struggling with unloved. Can you help?,[Response Placeholder],Depression,Overthinking
+What should I do when unloved?,[Response Placeholder],Stress,Body Image Issues
+Why do I feel nervous?,[Response Placeholder],Sadness,Social Isolation
+What should I do when worried?,[Response Placeholder],Guilt,Emotional Exhaustion
+How can I get over anxious?,[Response Placeholder],Fear,Self-Worth
+What can I do when insecure affects me?,[Response Placeholder],Panic Attacks,Overthinking
+What can I do when I'm feeling sad?,[Response Placeholder],Stress,Perfectionism
+What should I do when nervous?,[Response Placeholder],Guilt,Regret
+What should I do when guilty?,[Response Placeholder],Anger,Future Uncertainty
+How can I handle fearful in my life?,[Response Placeholder],Self-Esteem,Future Uncertainty
+What can I do when lonely affects me?,[Response Placeholder],Depression,Overthinking
+What can I do when I'm feeling anxious?,[Response Placeholder],Loneliness,Fear of Rejection
+How can I get over angry?,[Response Placeholder],Stress,Regret
+How do I stop upset?,[Response Placeholder],Sadness,Perfectionism
+Why do I feel sad?,[Response Placeholder],Loneliness,Overthinking
+How do I stop worried?,[Response Placeholder],Burnout,Feeling Unsupported
+I'm struggling with lonely. Can you help?,[Response Placeholder],Anger,Insomnia
+I can't stop feeling guilty. What should I do?,[Response Placeholder],Sadness,Emotional Exhaustion
+How can I cope with hopeless?,[Response Placeholder],Depression,Trouble Concentrating
+What should I do when stressed?,[Response Placeholder],Guilt,Overthinking
+I can't stop feeling nervous. What should I do?,[Response Placeholder],Anxiety,Trouble Concentrating
+What should I do when lonely?,[Response Placeholder],Depression,Work Stress
+How do I stop worried?,[Response Placeholder],Loneliness,Social Isolation
+How can I get over upset?,[Response Placeholder],Depression,Procrastination
+Why does angry feel so overwhelming?,[Response Placeholder],Self-Esteem,Procrastination
+How can I get over worthless?,[Response Placeholder],Relationship Issues,Perfectionism
+Why do I always feel stressed?,[Response Placeholder],Self-Esteem,Work Stress
+Why does nervous feel so overwhelming?,[Response Placeholder],Relationship Issues,Body Image Issues
+I'm struggling with insecure. Can you help?,[Response Placeholder],Relationship Issues,Trouble Concentrating
+I'm struggling with stressed. Can you help?,[Response Placeholder],Relationship Issues,Perfectionism
+How do I stop stressed?,[Response Placeholder],Panic Attacks,Social Isolation
+Why does stressed feel so overwhelming?,[Response Placeholder],Anxiety,Feeling Unsupported
+What can I do when stressed affects me?,[Response Placeholder],Stress,Future Uncertainty
+I'm struggling with upset. Can you help?,[Response Placeholder],Grief,Self-Worth
+Why do I feel worried?,[Response Placeholder],Sleep Problems,Decision-Making
+Why do I feel insecure?,[Response Placeholder],Burnout,Overthinking
+What can I do when I'm feeling insecure?,[Response Placeholder],Grief,Work Stress
+How can I get over lonely?,[Response Placeholder],Grief,Future Uncertainty
+What are some ways to manage worried?,[Response Placeholder],Relationship Issues,Fear of Rejection
+How do I deal with guilty?,[Response Placeholder],Social Anxiety,Overthinking
+How can I handle overwhelmed in my life?,[Response Placeholder],Sleep Problems,Fear of Rejection
+What should I do when worthless?,[Response Placeholder],Burnout,Body Image Issues
+How do I stop upset?,[Response Placeholder],Fear,Insomnia
+How do I deal with upset?,[Response Placeholder],Sadness,Procrastination
+What can I do when hopeless affects me?,[Response Placeholder],Depression,Feeling Unsupported
+I can't stop feeling insecure. What should I do?,[Response Placeholder],Social Anxiety,Future Uncertainty
+I'm struggling with anxious. Can you help?,[Response Placeholder],Self-Esteem,Decision-Making
+Why does insecure feel so overwhelming?,[Response Placeholder],Relationship Issues,Body Image Issues
+What can I do when guilty affects me?,[Response Placeholder],Anger,Procrastination
+I'm struggling with unloved. Can you help?,[Response Placeholder],Social Anxiety,Feeling Unsupported
+Why does sad feel so overwhelming?,[Response Placeholder],Panic Attacks,Feeling Unsupported
+How can I cope with unloved?,[Response Placeholder],Panic Attacks,Decision-Making
+Can you help me with lonely?,[Response Placeholder],Guilt,Procrastination
+How can I cope with guilty?,[Response Placeholder],Self-Esteem,Insomnia
+What can I do when worried affects me?,[Response Placeholder],Panic Attacks,Trouble Concentrating
+I can't stop feeling sad. What should I do?,[Response Placeholder],Fear,Emotional Exhaustion
+What can I do when anxious affects me?,[Response Placeholder],Self-Esteem,Overthinking
+How can I cope with sad?,[Response Placeholder],Fear,Perfectionism
+I'm struggling with lonely. Can you help?,[Response Placeholder],Social Anxiety,Perfectionism
+Why do I always feel fearful?,[Response Placeholder],Stress,Procrastination
+Can you help me with lonely?,[Response Placeholder],Sleep Problems,Fear of Rejection
+I'm struggling with upset. Can you help?,[Response Placeholder],Relationship Issues,Work Stress
+Why does overwhelmed feel so overwhelming?,[Response Placeholder],Sadness,Work Stress
+Can you help me with guilty?,[Response Placeholder],Panic Attacks,Insomnia
+Can you help me with fearful?,[Response Placeholder],Sleep Problems,Self-Worth
+Why do I always feel lonely?,[Response Placeholder],Loneliness,Feeling Unsupported
+I can't stop feeling hopeless. What should I do?,[Response Placeholder],Guilt,Fear of Rejection
+What can I do when I'm feeling worthless?,[Response Placeholder],Sadness,Emotional Exhaustion
+How can I get over overwhelmed?,[Response Placeholder],Relationship Issues,Regret
+How can I cope with worthless?,[Response Placeholder],Sadness,Future Uncertainty
+What are some ways to manage stressed?,[Response Placeholder],Sleep Problems,Social Isolation
+Why do I always feel nervous?,[Response Placeholder],Self-Esteem,Work Stress
+What can I do when anxious affects me?,[Response Placeholder],Social Anxiety,Future Uncertainty
+Can you help me with sad?,[Response Placeholder],Depression,Perfectionism
+How can I cope with sad?,[Response Placeholder],Guilt,Perfectionism
+How can I handle anxious in my life?,[Response Placeholder],Loneliness,Insomnia
+What can I do when guilty affects me?,[Response Placeholder],Social Anxiety,Decision-Making
+How can I get over insecure?,[Response Placeholder],Grief,Work Stress
+Why do I always feel lonely?,[Response Placeholder],Guilt,Feeling Unsupported
+What can I do when angry affects me?,[Response Placeholder],Anxiety,Decision-Making
+What are some ways to manage sad?,[Response Placeholder],Loneliness,Feeling Unsupported
+Can you help me with unloved?,[Response Placeholder],Depression,Insomnia
+Can you help me with worried?,[Response Placeholder],Relationship Issues,Emotional Exhaustion
+How can I handle guilty in my life?,[Response Placeholder],Sadness,Trouble Concentrating
+How do I deal with overwhelmed?,[Response Placeholder],Fear,Decision-Making
+Why does hopeless feel so overwhelming?,[Response Placeholder],Depression,Future Uncertainty
+What can I do when upset affects me?,[Response Placeholder],Social Anxiety,Future Uncertainty
+What are some ways to manage nervous?,[Response Placeholder],Stress,Future Uncertainty
+How do I deal with sad?,[Response Placeholder],Stress,Regret
+How can I cope with worried?,[Response Placeholder],Relationship Issues,Perfectionism
+What can I do when I'm feeling guilty?,[Response Placeholder],Guilt,Emotional Exhaustion
+How do I stop worthless?,[Response Placeholder],Guilt,Social Isolation
+Why do I always feel lonely?,[Response Placeholder],Panic Attacks,Social Isolation
+What are some ways to manage worthless?,[Response Placeholder],Loneliness,Future Uncertainty
+I'm struggling with insecure. Can you help?,[Response Placeholder],Guilt,Future Uncertainty
+Can you help me with nervous?,[Response Placeholder],Stress,Self-Worth
+How can I handle stressed in my life?,[Response Placeholder],Self-Esteem,Emotional Exhaustion
+Why do I feel overwhelmed?,[Response Placeholder],Stress,Social Isolation
+What are some ways to manage fearful?,[Response Placeholder],Anger,Fear of Rejection
+Can you help me with angry?,[Response Placeholder],Fear,Work Stress
+What should I do when worried?,[Response Placeholder],Sleep Problems,Perfectionism
+Why do I feel fearful?,[Response Placeholder],Panic Attacks,Regret
+Can you help me with nervous?,[Response Placeholder],Anxiety,Regret
+How can I cope with insecure?,[Response Placeholder],Anxiety,Perfectionism
+What should I do when anxious?,[Response Placeholder],Stress,Emotional Exhaustion
+How do I stop hopeless?,[Response Placeholder],Anger,Overthinking
+What should I do when worried?,[Response Placeholder],Anger,Work Stress
+What are some ways to manage worried?,[Response Placeholder],Stress,Decision-Making
+I can't stop feeling angry. What should I do?,[Response Placeholder],Burnout,Feeling Unsupported
+I can't stop feeling worthless. What should I do?,[Response Placeholder],Panic Attacks,Perfectionism
+What can I do when I'm feeling insecure?,[Response Placeholder],Burnout,Fear of Rejection
+I can't stop feeling insecure. What should I do?,[Response Placeholder],Grief,Self-Worth
+How do I deal with fearful?,[Response Placeholder],Fear,Insomnia
+How do I stop insecure?,[Response Placeholder],Burnout,Feeling Unsupported
+Why do I always feel fearful?,[Response Placeholder],Guilt,Regret
+What can I do when guilty affects me?,[Response Placeholder],Relationship Issues,Feeling Unsupported
+Why do I always feel angry?,[Response Placeholder],Guilt,Future Uncertainty
+What are some ways to manage sad?,[Response Placeholder],Self-Esteem,Procrastination
+How can I handle anxious in my life?,[Response Placeholder],Relationship Issues,Future Uncertainty
+How can I get over unloved?,[Response Placeholder],Guilt,Regret
+How do I stop fearful?,[Response Placeholder],Sadness,Perfectionism
+What can I do when insecure affects me?,[Response Placeholder],Loneliness,Body Image Issues
+What can I do when I'm feeling stressed?,[Response Placeholder],Social Anxiety,Fear of Rejection
+Can you help me with upset?,[Response Placeholder],Sleep Problems,Overthinking
+How do I stop insecure?,[Response Placeholder],Panic Attacks,Emotional Exhaustion
+How do I stop insecure?,[Response Placeholder],Panic Attacks,Perfectionism
+How can I cope with worried?,[Response Placeholder],Anxiety,Work Stress
+Why does hopeless feel so overwhelming?,[Response Placeholder],Relationship Issues,Body Image Issues
+How can I get over insecure?,[Response Placeholder],Depression,Future Uncertainty
+Why do I feel unloved?,[Response Placeholder],Guilt,Social Isolation
+Why do I feel unloved?,[Response Placeholder],Anxiety,Emotional Exhaustion
+What can I do when fearful affects me?,[Response Placeholder],Self-Esteem,Procrastination
+What are some ways to manage angry?,[Response Placeholder],Fear,Insomnia
+How can I cope with worthless?,[Response Placeholder],Anger,Trouble Concentrating
+What should I do when worthless?,[Response Placeholder],Anger,Overthinking
+What should I do when guilty?,[Response Placeholder],Depression,Trouble Concentrating
+Can you help me with angry?,[Response Placeholder],Panic Attacks,Future Uncertainty
+How can I cope with upset?,[Response Placeholder],Panic Attacks,Emotional Exhaustion
+I'm struggling with upset. Can you help?,[Response Placeholder],Stress,Overthinking
+How do I stop nervous?,[Response Placeholder],Stress,Overthinking
+How do I deal with guilty?,[Response Placeholder],Grief,Fear of Rejection
+How do I stop fearful?,[Response Placeholder],Loneliness,Feeling Unsupported
+Why does upset feel so overwhelming?,[Response Placeholder],Depression,Trouble Concentrating
+What should I do when sad?,[Response Placeholder],Anxiety,Fear of Rejection
+What should I do when lonely?,[Response Placeholder],Fear,Self-Worth
+Can you help me with hopeless?,[Response Placeholder],Guilt,Fear of Rejection
+What can I do when I'm feeling hopeless?,[Response Placeholder],Anger,Trouble Concentrating
+How can I get over insecure?,[Response Placeholder],Fear,Feeling Unsupported
+I'm struggling with insecure. Can you help?,[Response Placeholder],Sleep Problems,Trouble Concentrating
+How can I handle worthless in my life?,[Response Placeholder],Depression,Body Image Issues
+How can I handle insecure in my life?,[Response Placeholder],Burnout,Regret
+Can you help me with stressed?,[Response Placeholder],Depression,Trouble Concentrating
+What should I do when angry?,[Response Placeholder],Sleep Problems,Future Uncertainty
+What are some ways to manage lonely?,[Response Placeholder],Fear,Fear of Rejection
+What are some ways to manage fearful?,[Response Placeholder],Self-Esteem,Work Stress
+How do I deal with overwhelmed?,[Response Placeholder],Burnout,Social Isolation
+I'm struggling with worried. Can you help?,[Response Placeholder],Relationship Issues,Procrastination
+How can I cope with lonely?,[Response Placeholder],Loneliness,Self-Worth
+What are some ways to manage overwhelmed?,[Response Placeholder],Anger,Decision-Making
+How can I get over upset?,[Response Placeholder],Panic Attacks,Social Isolation
+Why does guilty feel so overwhelming?,[Response Placeholder],Anger,Feeling Unsupported
+What should I do when insecure?,[Response Placeholder],Panic Attacks,Work Stress
+I'm struggling with worried. Can you help?,[Response Placeholder],Fear,Self-Worth
+I'm struggling with lonely. Can you help?,[Response Placeholder],Anxiety,Work Stress
+I can't stop feeling insecure. What should I do?,[Response Placeholder],Guilt,Body Image Issues
+How do I stop insecure?,[Response Placeholder],Relationship Issues,Feeling Unsupported
+Why do I always feel sad?,[Response Placeholder],Social Anxiety,Perfectionism
+Why do I feel worthless?,[Response Placeholder],Grief,Procrastination
+What can I do when insecure affects me?,[Response Placeholder],Guilt,Self-Worth
+What should I do when worried?,[Response Placeholder],Sleep Problems,Social Isolation
+What are some ways to manage stressed?,[Response Placeholder],Relationship Issues,Decision-Making
+What can I do when I'm feeling worried?,[Response Placeholder],Stress,Work Stress
+What can I do when stressed affects me?,[Response Placeholder],Self-Esteem,Perfectionism
+How can I handle upset in my life?,[Response Placeholder],Self-Esteem,Overthinking
+How can I cope with overwhelmed?,[Response Placeholder],Stress,Emotional Exhaustion
+How can I get over nervous?,[Response Placeholder],Sadness,Procrastination
+Why do I feel anxious?,[Response Placeholder],Depression,Feeling Unsupported
+I'm struggling with upset. Can you help?,[Response Placeholder],Self-Esteem,Social Isolation
+What should I do when stressed?,[Response Placeholder],Guilt,Perfectionism
+How can I cope with anxious?,[Response Placeholder],Relationship Issues,Regret
+I can't stop feeling unloved. What should I do?,[Response Placeholder],Relationship Issues,Future Uncertainty
+How can I get over insecure?,[Response Placeholder],Panic Attacks,Insomnia
+How can I handle nervous in my life?,[Response Placeholder],Sleep Problems,Insomnia
+I can't stop feeling worried. What should I do?,[Response Placeholder],Sadness,Self-Worth
+What can I do when overwhelmed affects me?,[Response Placeholder],Depression,Insomnia
+I can't stop feeling lonely. What should I do?,[Response Placeholder],Fear,Social Isolation
+What should I do when upset?,[Response Placeholder],Burnout,Insomnia
+I can't stop feeling nervous. What should I do?,[Response Placeholder],Relationship Issues,Body Image Issues
+Why do I feel insecure?,[Response Placeholder],Grief,Social Isolation
+What can I do when insecure affects me?,[Response Placeholder],Depression,Body Image Issues
+What can I do when hopeless affects me?,[Response Placeholder],Burnout,Work Stress
+How do I stop angry?,[Response Placeholder],Social Anxiety,Work Stress
+What should I do when fearful?,[Response Placeholder],Loneliness,Fear of Rejection
+How can I get over unloved?,[Response Placeholder],Depression,Trouble Concentrating
+What should I do when overwhelmed?,[Response Placeholder],Grief,Body Image Issues
+Why does worried feel so overwhelming?,[Response Placeholder],Fear,Feeling Unsupported
+I'm struggling with worthless. Can you help?,[Response Placeholder],Relationship Issues,Regret
+I can't stop feeling lonely. What should I do?,[Response Placeholder],Panic Attacks,Fear of Rejection
+I can't stop feeling lonely. What should I do?,[Response Placeholder],Social Anxiety,Feeling Unsupported
+What are some ways to manage hopeless?,[Response Placeholder],Fear,Body Image Issues
+Can you help me with anxious?,[Response Placeholder],Sadness,Procrastination
+What are some ways to manage anxious?,[Response Placeholder],Loneliness,Perfectionism
+What should I do when insecure?,[Response Placeholder],Anger,Emotional Exhaustion
+How can I get over insecure?,[Response Placeholder],Fear,Future Uncertainty
+How do I deal with nervous?,[Response Placeholder],Grief,Perfectionism
+Can you help me with worthless?,[Response Placeholder],Grief,Trouble Concentrating
+What can I do when lonely affects me?,[Response Placeholder],Burnout,Perfectionism
+What can I do when angry affects me?,[Response Placeholder],Anxiety,Work Stress
+I'm struggling with anxious. Can you help?,[Response Placeholder],Grief,Decision-Making
+I can't stop feeling anxious. What should I do?,[Response Placeholder],Anger,Future Uncertainty
+How can I handle insecure in my life?,[Response Placeholder],Loneliness,Insomnia
+How can I handle unloved in my life?,[Response Placeholder],Self-Esteem,Self-Worth
+What are some ways to manage sad?,[Response Placeholder],Anger,Fear of Rejection
+Why do I always feel upset?,[Response Placeholder],Stress,Overthinking
+Why do I feel overwhelmed?,[Response Placeholder],Sadness,Future Uncertainty
+How can I get over worried?,[Response Placeholder],Loneliness,Work Stress
+How do I stop upset?,[Response Placeholder],Anger,Future Uncertainty
+I'm struggling with fearful. Can you help?,[Response Placeholder],Stress,Regret
+I'm struggling with hopeless. Can you help?,[Response Placeholder],Guilt,Insomnia
+How can I handle stressed in my life?,[Response Placeholder],Fear,Fear of Rejection
+What should I do when angry?,[Response Placeholder],Sleep Problems,Trouble Concentrating
+How can I handle overwhelmed in my life?,[Response Placeholder],Loneliness,Insomnia
+How can I cope with lonely?,[Response Placeholder],Relationship Issues,Future Uncertainty
+What can I do when worthless affects me?,[Response Placeholder],Loneliness,Insomnia
+What can I do when worried affects me?,[Response Placeholder],Self-Esteem,Social Isolation
+I'm struggling with hopeless. Can you help?,[Response Placeholder],Fear,Emotional Exhaustion
+How can I cope with lonely?,[Response Placeholder],Panic Attacks,Decision-Making
+What can I do when I'm feeling anxious?,[Response Placeholder],Fear,Decision-Making
+How do I deal with worthless?,[Response Placeholder],Depression,Feeling Unsupported
+What can I do when unloved affects me?,[Response Placeholder],Sleep Problems,Fear of Rejection
+What can I do when I'm feeling insecure?,[Response Placeholder],Self-Esteem,Trouble Concentrating
+What can I do when I'm feeling nervous?,[Response Placeholder],Sleep Problems,Procrastination
+Why does stressed feel so overwhelming?,[Response Placeholder],Burnout,Body Image Issues
+Why do I always feel lonely?,[Response Placeholder],Stress,Decision-Making
+How do I stop unloved?,[Response Placeholder],Loneliness,Self-Worth
+What can I do when worried affects me?,[Response Placeholder],Grief,Work Stress
+How can I handle lonely in my life?,[Response Placeholder],Anger,Fear of Rejection
+I'm struggling with stressed. Can you help?,[Response Placeholder],Guilt,Feeling Unsupported
+What should I do when guilty?,[Response Placeholder],Burnout,Decision-Making
+How do I stop lonely?,[Response Placeholder],Self-Esteem,Feeling Unsupported
+Why do I always feel worried?,[Response Placeholder],Relationship Issues,Future Uncertainty
+Why do I always feel hopeless?,[Response Placeholder],Sadness,Regret
+Why does sad feel so overwhelming?,[Response Placeholder],Social Anxiety,Future Uncertainty
+What can I do when I'm feeling hopeless?,[Response Placeholder],Anger,Fear of Rejection
+Why does fearful feel so overwhelming?,[Response Placeholder],Social Anxiety,Procrastination
+What are some ways to manage nervous?,[Response Placeholder],Grief,Trouble Concentrating
+How can I get over upset?,[Response Placeholder],Depression,Body Image Issues
+Why does overwhelmed feel so overwhelming?,[Response Placeholder],Anxiety,Feeling Unsupported
+What can I do when stressed affects me?,[Response Placeholder],Panic Attacks,Regret
+What can I do when I'm feeling fearful?,[Response Placeholder],Guilt,Body Image Issues
+Why does insecure feel so overwhelming?,[Response Placeholder],Self-Esteem,Fear of Rejection
+What can I do when I'm feeling hopeless?,[Response Placeholder],Guilt,Procrastination
+What can I do when fearful affects me?,[Response Placeholder],Relationship Issues,Regret
+Why do I always feel anxious?,[Response Placeholder],Sleep Problems,Perfectionism
+How can I cope with unloved?,[Response Placeholder],Burnout,Trouble Concentrating
+How can I get over stressed?,[Response Placeholder],Loneliness,Decision-Making
+What can I do when I'm feeling sad?,[Response Placeholder],Stress,Decision-Making
+Why do I feel insecure?,[Response Placeholder],Self-Esteem,Regret
+How can I handle unloved in my life?,[Response Placeholder],Burnout,Future Uncertainty
+What should I do when anxious?,[Response Placeholder],Relationship Issues,Overthinking
+What are some ways to manage worthless?,[Response Placeholder],Fear,Overthinking
+How can I get over guilty?,[Response Placeholder],Fear,Body Image Issues
+I'm struggling with guilty. Can you help?,[Response Placeholder],Relationship Issues,Self-Worth
+What can I do when I'm feeling worried?,[Response Placeholder],Sadness,Feeling Unsupported
+What can I do when angry affects me?,[Response Placeholder],Anxiety,Procrastination
+I can't stop feeling guilty. What should I do?,[Response Placeholder],Guilt,Feeling Unsupported
+What should I do when anxious?,[Response Placeholder],Burnout,Feeling Unsupported
+What can I do when I'm feeling worthless?,[Response Placeholder],Loneliness,Self-Worth
+What are some ways to manage anxious?,[Response Placeholder],Panic Attacks,Decision-Making
+I can't stop feeling worthless. What should I do?,[Response Placeholder],Self-Esteem,Trouble Concentrating
+How do I deal with insecure?,[Response Placeholder],Guilt,Emotional Exhaustion
+Why does stressed feel so overwhelming?,[Response Placeholder],Burnout,Fear of Rejection
+How do I stop guilty?,[Response Placeholder],Anxiety,Perfectionism
+What are some ways to manage upset?,[Response Placeholder],Depression,Feeling Unsupported
+Why do I always feel lonely?,[Response Placeholder],Sadness,Future Uncertainty
+What can I do when I'm feeling anxious?,[Response Placeholder],Anxiety,Feeling Unsupported
+How can I handle angry in my life?,[Response Placeholder],Stress,Self-Worth
+What are some ways to manage worthless?,[Response Placeholder],Burnout,Social Isolation
+How do I stop angry?,[Response Placeholder],Depression,Future Uncertainty
+How can I cope with lonely?,[Response Placeholder],Anxiety,Emotional Exhaustion
+What can I do when I'm feeling upset?,[Response Placeholder],Anger,Decision-Making
+How can I cope with overwhelmed?,[Response Placeholder],Anxiety,Decision-Making
+How can I get over lonely?,[Response Placeholder],Sleep Problems,Trouble Concentrating
+I can't stop feeling guilty. What should I do?,[Response Placeholder],Depression,Body Image Issues
+Why do I feel upset?,[Response Placeholder],Sadness,Trouble Concentrating
+What should I do when unloved?,[Response Placeholder],Fear,Perfectionism
+I'm struggling with lonely. Can you help?,[Response Placeholder],Guilt,Future Uncertainty
+I'm struggling with stressed. Can you help?,[Response Placeholder],Panic Attacks,Perfectionism
+Why do I always feel anxious?,[Response Placeholder],Self-Esteem,Regret
+I can't stop feeling fearful. What should I do?,[Response Placeholder],Guilt,Trouble Concentrating
+What should I do when upset?,[Response Placeholder],Loneliness,Feeling Unsupported
+Why do I feel lonely?,[Response Placeholder],Self-Esteem,Overthinking
+How do I stop lonely?,[Response Placeholder],Anger,Trouble Concentrating
+How can I cope with overwhelmed?,[Response Placeholder],Anger,Work Stress
+Why does overwhelmed feel so overwhelming?,[Response Placeholder],Burnout,Overthinking
+What can I do when I'm feeling hopeless?,[Response Placeholder],Anger,Body Image Issues
+Can you help me with anxious?,[Response Placeholder],Grief,Body Image Issues
+How do I stop hopeless?,[Response Placeholder],Relationship Issues,Social Isolation
+What can I do when I'm feeling unloved?,[Response Placeholder],Anxiety,Fear of Rejection
+Why do I always feel overwhelmed?,[Response Placeholder],Burnout,Regret
+What are some ways to manage overwhelmed?,[Response Placeholder],Sleep Problems,Feeling Unsupported
+What can I do when I'm feeling angry?,[Response Placeholder],Social Anxiety,Perfectionism
+What are some ways to manage unloved?,[Response Placeholder],Burnout,Insomnia
+Why do I feel hopeless?,[Response Placeholder],Social Anxiety,Trouble Concentrating
+I can't stop feeling worthless. What should I do?,[Response Placeholder],Anxiety,Feeling Unsupported
+I'm struggling with sad. Can you help?,[Response Placeholder],Sleep Problems,Work Stress
+What should I do when worried?,[Response Placeholder],Depression,Fear of Rejection
+How can I handle sad in my life?,[Response Placeholder],Sleep Problems,Social Isolation
+I'm struggling with guilty. Can you help?,[Response Placeholder],Burnout,Procrastination
+What should I do when overwhelmed?,[Response Placeholder],Loneliness,Insomnia
+How do I stop anxious?,[Response Placeholder],Grief,Decision-Making
+How do I stop worthless?,[Response Placeholder],Anxiety,Work Stress
+What should I do when overwhelmed?,[Response Placeholder],Anger,Self-Worth
+How do I stop guilty?,[Response Placeholder],Grief,Insomnia
+Why do I feel stressed?,[Response Placeholder],Burnout,Procrastination
+How can I get over stressed?,[Response Placeholder],Stress,Trouble Concentrating
+How do I stop nervous?,[Response Placeholder],Relationship Issues,Regret
+How do I deal with upset?,[Response Placeholder],Relationship Issues,Perfectionism
+Why does sad feel so overwhelming?,[Response Placeholder],Fear,Emotional Exhaustion
+How do I deal with stressed?,[Response Placeholder],Sadness,Social Isolation
+What can I do when nervous affects me?,[Response Placeholder],Sadness,Work Stress
+Why do I feel worried?,[Response Placeholder],Relationship Issues,Future Uncertainty
+How do I stop lonely?,[Response Placeholder],Anger,Social Isolation
+How can I cope with guilty?,[Response Placeholder],Anxiety,Regret
+How do I stop worthless?,[Response Placeholder],Sleep Problems,Decision-Making
+How can I cope with nervous?,[Response Placeholder],Fear,Future Uncertainty
+What can I do when I'm feeling lonely?,[Response Placeholder],Relationship Issues,Social Isolation
+Why does sad feel so overwhelming?,[Response Placeholder],Grief,Regret
+What are some ways to manage worthless?,[Response Placeholder],Social Anxiety,Overthinking
+How do I stop upset?,[Response Placeholder],Stress,Trouble Concentrating
+What are some ways to manage hopeless?,[Response Placeholder],Loneliness,Fear of Rejection
+How do I deal with worried?,[Response Placeholder],Depression,Work Stress
+I'm struggling with unloved. Can you help?,[Response Placeholder],Social Anxiety,Body Image Issues
+How do I stop unloved?,[Response Placeholder],Stress,Insomnia
+What can I do when I'm feeling fearful?,[Response Placeholder],Self-Esteem,Fear of Rejection
+What can I do when unloved affects me?,[Response Placeholder],Sleep Problems,Perfectionism
+What can I do when I'm feeling unloved?,[Response Placeholder],Sleep Problems,Feeling Unsupported
+I'm struggling with guilty. Can you help?,[Response Placeholder],Panic Attacks,Social Isolation
+Why do I always feel worried?,[Response Placeholder],Fear,Regret
+What can I do when insecure affects me?,[Response Placeholder],Fear,Future Uncertainty
+How do I deal with unloved?,[Response Placeholder],Anxiety,Insomnia
+How do I stop anxious?,[Response Placeholder],Relationship Issues,Body Image Issues
+Why do I always feel nervous?,[Response Placeholder],Grief,Perfectionism
+Why do I feel nervous?,[Response Placeholder],Panic Attacks,Decision-Making
+How can I get over unloved?,[Response Placeholder],Relationship Issues,Procrastination
+What should I do when upset?,[Response Placeholder],Sleep Problems,Fear of Rejection
+Can you help me with overwhelmed?,[Response Placeholder],Guilt,Feeling Unsupported
+Why does angry feel so overwhelming?,[Response Placeholder],Grief,Work Stress
+How can I get over stressed?,[Response Placeholder],Anger,Regret
+How can I cope with insecure?,[Response Placeholder],Depression,Perfectionism
+I'm struggling with worthless. Can you help?,[Response Placeholder],Relationship Issues,Decision-Making
+What can I do when unloved affects me?,[Response Placeholder],Sadness,Decision-Making
+I'm struggling with hopeless. Can you help?,[Response Placeholder],Anger,Self-Worth
+Why do I always feel nervous?,[Response Placeholder],Anxiety,Emotional Exhaustion
+What can I do when hopeless affects me?,[Response Placeholder],Sadness,Fear of Rejection
+How do I stop nervous?,[Response Placeholder],Relationship Issues,Regret
+What should I do when guilty?,[Response Placeholder],Sadness,Overthinking
