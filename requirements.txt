@@ -1,3 +1,4 @@
+pip
 streamlit==1.24.1
 requests_oauthlib==2.0.0
 google-auth==2.35.0
